@@ -20,7 +20,7 @@ Register/edit/remove landlords in database<br>
 ![alt tag](https://raw.github.com/gretar80/Boligformidleren/master/screenshots/02_landlord.png)
 <hr>
 Register/edit/remove apartments in database<br>
-![alt tag](https://raw.github.com/gretar80/Boligformidleren/master/screenshots/06_apartments.png)
+![alt tag](https://raw.github.com/gretar80/Boligformidleren/master/screenshots/06_apartment.png)
 <hr>
 Register/edit/remove contracts (between tenant and landlord) in database<br>
 ![alt tag](https://raw.github.com/gretar80/Boligformidleren/master/screenshots/04_contract.png)
