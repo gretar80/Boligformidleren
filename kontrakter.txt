@@ -1,0 +1,1000 @@
+Dalssvingen 36
+3135
+Torød
+Abdi
+Sundal
+Malena
+Østvik
+19700
+28.01.2014
+27.02.2015
+Fallanveien 81
+6995
+Kyrkjebø
+Jonny
+Trana
+Oddlaug
+Botnen
+10300
+10.04.2014
+13.12.2014
+Fetsundgata 132
+3253
+Larvik
+Maja
+Børve
+Oda
+Leidland
+22100
+26.04.2013
+11.12.2015
+Gableinsvei 11
+9107
+Tromvik
+Ågot
+Sperre
+Wiggo
+Mørland
+34500
+19.11.2012
+23.07.2014
+Hagastubben 82
+6057
+Ellingsøy
+Jimmy
+Lindås
+Aisha
+Næss
+38800
+15.03.2014
+21.03.2015
+Kanslergata 114
+9512
+Alta
+Aslak
+Leite
+Brita
+Gåsland
+36100
+16.07.2013
+15.01.2014
+Kapellveien 39
+8376
+Leknes
+Heine
+Gram
+Kjellaug
+Gundersen
+10900
+15.12.2012
+07.03.2014
+Lallakroken 65
+8230
+Sulitjelma
+Jacob
+Boye
+Vanessa
+Bjerkli
+17800
+11.02.2013
+22.12.2015
+Langåsveien 72
+0402
+Oslo
+Anlaug
+Øksnes
+Hamza
+Gjøen
+18700
+31.03.2014
+06.08.2014
+Larviksgata 53
+0692
+Oslo
+Gretha
+Kåsa
+Fabian
+Rostad
+12900
+30.01.2013
+16.07.2015
+Malmøyveien 11
+9254
+Tromsø
+Birgit
+Brevig
+Christer
+Skaare
+29400
+01.08.2013
+26.03.2014
+Nebbejordet 99
+1202
+Oslo
+Tanja
+Bøhn
+Torlaug
+Gjerløw
+12300
+14.05.2013
+24.07.2015
+Nellikveien 5
+5420
+Rubbestadneset
+Iris
+Aunan
+Jarand
+Risnes
+12500
+23.12.2012
+27.04.2015
+Neptunveien 18
+6944
+Stavang
+Torjus
+Molvik
+Susan
+Skråmestø
+26100
+19.05.2013
+01.12.2015
+Ravnåsveien 48
+3701
+Skien
+Alice
+Liane
+Tuva
+Jensen
+17700
+12.09.2013
+10.05.2016
+Sagstuveien 21
+3949
+Porsgrunn
+Filip
+Utheim
+Peter
+Lura
+19100
+20.07.2013
+19.02.2015
+Sandåsveien 35
+4096
+Randaberg
+Jarand
+Kjos
+Adolf
+Ramstad
+7000
+03.06.2013
+21.05.2014
+Saturnveien 20
+5640
+Eikelandsosen
+Anni
+Berget
+Dordi
+Paulsen
+33700
+19.04.2012
+22.09.2014
+Tamburveien 70
+2485
+Rendalen
+Leo
+Nornes
+Amalie
+Hidle
+18200
+09.11.2013
+01.04.2015
+Teisenveien 51
+1482
+Nittedal
+Sigrun
+Bjorøy
+Hamid
+Evertsen
+32600
+12.01.2012
+23.12.2015
+Telavåggata 59
+1254
+Oslo
+Gaute
+Reite
+Anja
+Ophaug
+8900
+02.06.2013
+20.03.2014
+Telesvingen 25
+6868
+Gaupne
+Hilmar
+Vedøy
+Vera
+Haraldseid
+11300
+04.09.2013
+17.12.2014
+Tennisveien 75
+5257
+Kokstad
+Eric
+Heide
+Katrine
+Aaland
+20800
+29.10.2013
+06.09.2015
+Terningbekk 23
+7520
+Hegra
+Lindis
+Søvik
+Enok
+Hegge
+29000
+13.04.2013
+11.08.2015
+Valdresgata 74
+3045
+Drammen
+Edna
+Aulie
+Emilia
+Salvesen
+12200
+31.03.2014
+10.08.2015
+Valmueveien 131
+4551
+Farsund
+Heine
+Gram
+Samira
+Ølberg
+8800
+07.03.2014
+27.04.2015
+Øgårdsveien 141
+0588
+Oslo
+Rudi
+Aarset
+Mattis
+Zahl
+17200
+12.07.2013
+19.01.2014
+Ørakerstien 49
+4609
+Kardemomme By
+Åsta
+Tyldum
+Gisle
+Stange
+17600
+08.09.2012
+31.08.2014
+Ørakerveien 148
+2325
+Hamar
+Birk
+Melbye
+Villy
+Schie
+13400
+19.06.2012
+08.10.2014
+Ålesundgata 131
+4827
+Frolands Verk
+Aina
+Amdal
+Nathalie
+Krogstad
+16300
+21.08.2012
+11.07.2015
+Alnafetgata 25
+1185
+Oslo
+Herman
+Stray
+Hassan
+Skinnes
+30700
+07.09.2012
+24.12.2014
+Amagerveien 31
+2582
+Grimsbu
+Haldis
+Westby
+Olai
+Skjønberg
+6500
+16.11.2013
+17.01.2015
+Berglyveien 118
+7453
+Trondheim
+Jimmy
+Lindås
+Nadia
+Holt
+31900
+19.08.2013
+12.01.2016
+Bergsalleen 93
+2660
+Dombås
+Tanja
+Bøhn
+Niklas
+Byrkjeland
+30400
+29.09.2012
+04.02.2014
+Bestumveien 32
+9288
+Tromsø
+Herman
+Stray
+Birgitta
+Haukenes
+15700
+21.09.2013
+02.01.2015
+Beverkollen 32
+1317
+Bærums Verk
+Jimmy
+Lindås
+Niels
+Molvær
+35700
+25.02.2012
+29.04.2016
+Damlihaugen 33
+6967
+Hellevik I Fjaler
+Are
+Afzal
+Kolbjørn
+Westad
+22200
+20.04.2014
+12.05.2015
+Fiskekroken 90
+4517
+Mandal
+Marlen
+Mehlum
+Adrian
+Visnes
+21200
+25.08.2012
+23.02.2014
+Fjordalleen 89
+4804
+Arendal
+James
+Hoff
+Andres
+Hellerud
+12300
+14.03.2014
+15.12.2014
+Flaengrenda 91
+6457
+Bolsøya
+Hassan
+Shala
+Betsy
+Waaler
+6700
+14.04.2014
+29.12.2014
+Flesåstunet 87
+1735
+Varteig
+Joar
+Nguyen
+Øistein
+Groven
+6900
+24.09.2013
+13.06.2015
+Flesåsveien 31
+5819
+Bergen
+Lindis
+Søvik
+Anthony
+Heggedal
+37400
+07.02.2014
+03.12.2015
+Florabakken 149
+0178
+Oslo
+Rudi
+Aarset
+Martina
+Røhne
+16700
+08.02.2014
+13.03.2014
+Glitreveien 40
+5363
+Ågotnes
+James
+Hoff
+Amir
+Dyrseth
+13200
+29.11.2013
+03.02.2014
+Godliaveien 10
+0303
+Oslo
+Sigrun
+Bjorøy
+Arnt
+Sundstrøm
+6600
+26.01.2014
+09.03.2014
+Golfstubben 79
+1412
+Sofiemyr
+Herman
+Stray
+Sølvi
+Sollie
+14400
+22.07.2013
+31.08.2014
+Haslekroken 41
+8640
+Hemnesberget
+Steve
+Førre
+Ådne
+Kalland
+28900
+22.12.2012
+02.08.2014
+Haslevangen 115
+5132
+Nyborg
+Louis
+Hall
+Noralf
+Presthus
+19300
+24.10.2013
+29.05.2014
+Haslevollen 16
+1661
+Rolvsøy
+Mikal
+Astrup
+Kaare
+Edland
+22100
+14.08.2012
+03.12.2014
+Haugenstien 3
+3124
+Tønsberg
+Mark
+Risvik
+Casper
+Petterson
+6700
+12.03.2013
+19.03.2016
+Hauketoåsen 107
+3534
+Sokna
+Øyvin
+Igland
+Kai
+Fuglerud
+7600
+15.11.2013
+12.07.2015
+Havnabakken 124
+8140
+Inndyr
+Rudi
+Aarset
+Norvald
+Nordhagen
+3700
+14.11.2013
+03.01.2014
+Jerikoveien 6
+1062
+Oslo
+Patrik
+Hauan
+Martinus
+Mogstad
+9700
+13.09.2013
+16.10.2015
+Kikkutveien 137
+0247
+Oslo
+Gaute
+Reite
+Helmer
+Bøthun
+17300
+23.07.2012
+31.07.2015
+Kirkebakken 101
+6017
+Ålesund
+Ada
+Sola
+Alise
+Granmo
+21000
+01.02.2012
+06.05.2014
+Leirskallen 118
+1001
+Oslo
+Fred
+Aske
+Odvar
+Sandvold
+21200
+10.02.2013
+10.08.2015
+Lersolveien 40
+3602
+Kongsberg
+Dina
+Vikan
+Kine
+Abbas
+5900
+16.03.2012
+08.07.2014
+Libakkfaret 111
+1759
+Halden
+Katja
+Ihlen
+Karstein
+Lynum
+14800
+12.07.2012
+20.08.2014
+Libakkveien 7
+0319
+Oslo
+Tage
+Jahren
+Konstanse
+Forland
+18200
+17.06.2013
+09.03.2016
+Marmorveien 103
+4523
+Sør-Audnedal
+Louis
+Hall
+Dan
+Kruse
+11300
+15.01.2013
+26.05.2014
+Maurtuveien 102
+0426
+Oslo
+Anja
+Heien
+Ahmet
+Kvalnes
+16400
+03.12.2012
+27.07.2015
+Merkurveien 144
+0128
+Oslo
+Marcus
+Huse
+Guttorm
+Runde
+24200
+15.06.2012
+30.09.2014
+Neuberggata 145
+7498
+Trondheim
+Dagny
+Lam
+Rigmor
+Bakketun
+29600
+28.02.2012
+08.12.2014
+Ribbunggata 57
+8023
+Bodø
+Claus
+Meyer
+Remi
+Sandstad
+10700
+16.03.2013
+07.04.2016
+Sinsenveien 13
+2950
+Skammestein
+Haakon
+Engvik
+Kyrre
+Brekke
+12900
+27.12.2013
+05.03.2015
+Siriusveien 146
+6300
+Åndalsnes
+Gorm
+Roland
+Dorthea
+Skar
+26100
+31.10.2013
+21.09.2014
+Skanseveien 50
+9502
+Alta
+Hamid
+Koren
+Åshild
+Børstad
+29300
+03.08.2013
+16.11.2014
+Skarskroken 124
+3570
+Ål
+Magni
+Haugan
+Edith
+Føreland
+16200
+11.04.2014
+21.09.2015
+Skedsmogata 85
+5221
+Nesttun
+Edmund
+Voll
+Marta
+Storm
+18800
+09.05.2013
+10.09.2014
+Skiferveien 46
+4370
+Egersund
+Beathe
+Aas
+Janet
+Mork
+26000
+10.06.2012
+30.08.2015
+Skippergata 1
+0286
+Oslo
+Patrik
+Hauan
+Annie
+Gjestvang
+12000
+09.04.2013
+09.09.2014
+Skjellveien 29
+5327
+Hauglandshella
+Steve
+Førre
+Flemming
+Lindal
+14500
+18.07.2013
+10.05.2016
+Skjoldveien 146
+6310
+Veblungsnes
+Øyvin
+Igland
+Laurits
+Svela
+34700
+02.03.2012
+03.12.2014
+Skogroveien 16
+8189
+Gjersvikgrenda
+Hilmar
+Vedøy
+Bror
+Hogstad
+18400
+18.02.2014
+11.06.2015
+Skolebakken 71
+4156
+Mosterøy
+Edna
+Aulie
+Mariam
+Elmi
+12000
+01.08.2013
+01.04.2016
+Skøyenveien 67
+0121
+Oslo
+Fride
+Erdal
+Edel
+Sandanger
+19100
+02.03.2013
+13.06.2015
+Slalåmveien 61
+2716
+Harestua
+Aslak
+Leite
+Brynjulf
+Aanensen
+15500
+23.03.2014
+06.12.2015
+Sletteløkka 30
+0558
+Oslo
+Eric
+Heide
+Valborg
+Gamst
+18100
+12.12.2013
+11.11.2014
+Tittutveien 37
+7229
+Kvål
+Dina
+Vikan
+Anine
+Sandbakken
+25700
+01.01.2014
+07.05.2014
+Ullernfaret 35
+3268
+Larvik
+Anja
+Heien
+Eystein
+Bergseth
+8900
+31.08.2012
+28.11.2014
+Ullernveien 29
+3713
+Skien
+Anja
+Heien
+Ann-kristin
+Strandberg
+12200
+24.09.2013
+21.03.2014
+Vekterveien 43
+7944
+Indre Nærøy
+Herman
+Stray
+Vibeke
+Haugsvær
+4700
+28.11.2012
+25.06.2014
+Vendomveien 112
+9489
+Harstad
+Torolf
+Håheim
+Elinor
+Bakkan
+9500
+19.12.2013
+31.12.2015
+Veslekleiva 60
+2059
+Trandum
+Sture
+Bergh
+Gudbrand
+Aasbø
+39200
+23.04.2012
+16.12.2014
+Veslekroken 60
+5267
+Espeland
+Dina
+Vikan
+Maya
+Sikveland
+18200
+01.06.2012
+07.01.2015
+Vestbyveien 141
+2847
+Kolbu
+Mark
+Risvik
+William
+Langnes
+15600
+12.01.2012
+30.10.2014
+Ankertorget 18
+7724
+Steinkjer
+Abdi
+Sundal
+Jacob
+Winje
+9700
+17.01.2014
+29.08.2014
+Abbedikollen 104
+7201
+Kyrksæterøra
+Dagny
+Lam
+Gøran
+Rønningen
+5200
+12.11.2013
+12.05.2016
+Abildsøfaret 86
+9910
+Bjørnevatn
+Åsta
+Tyldum
+Agnar
+Johannesen
+31100
+12.12.2013
+15.08.2015
+Abildsøveien 118
+0276
+Oslo
+Ismail
+Hjorth
+Ludvig
+Valde
+7500
+27.09.2012
+08.05.2014
+Agronomveien 147
+7401
+Trondheim
+Dina
+Vikan
+Hanna
+Sæterdal
+19400
+20.11.2012
+23.03.2015
+Bekkeliveien 96
+5911
+Alversund
+Ludvig
+Sandmo
+Gabriel
+Hveem
+11000
+24.12.2012
+21.10.2014
+Bergensveien 27
+2436
+Våler I Solør
+Jose
+Torp
+Maren
+Kaland
+10000
+22.05.2013
+27.06.2014
+Dagalikroken 8
+9054
+Malangseidet
+Eric
+Heide
+Åge
+Eriksrud
+14900
+11.05.2013
+31.05.2015
+Dagmarbakken 84
+1322
+Høvik
+Sanna
+Ravnås
+Annar
+Klemetsen
+20800
+13.06.2013
+04.10.2015
+Dalbakkveien 50
+9056
+Mortenhals
+Anlaug
+Øksnes
+Andrew
+Opedal
+22300
+22.03.2014
+02.01.2016
+Dalerudveien 147
+8540
+Ballangen
+Aase
+Sharif
+Norunn
+Andersen
+7200
+19.11.2012
+03.08.2015
+Dalheimveien 92
+9295
+Tromsø
+Patrik
+Hauan
+Sturla
+Lillestøl
+14000
+07.05.2013
+27.03.2015
+Egertorget # 51
+7465
+Trondheim
+Beathe
+Aas
+Ole-jørgen
+Berstad
+13300
+19.05.2012
+17.04.2015
+Fagerliveien 82
+3991
+Brevik
+Mariam
+Hella
+Ahmad
+Friberg
+32000
+15.01.2012
+04.07.2015

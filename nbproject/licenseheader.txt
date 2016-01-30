@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Innhold:
+${licensePrefix}Sist oppdatert:
+${licensePrefix}Programmert av:
+<#if licenseLast??>
+${licenseLast}
+</#if>
