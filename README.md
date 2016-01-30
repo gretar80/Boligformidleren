@@ -1,7 +1,7 @@
 Boligformidleren
 =========
 
-A java program for Rental Apartments Agencies. 
+A java program for Rental Apartments Agencies. <br>
 Functions include:
   - Register/remove rental seekers in database
   - Register/remove landlords in database
